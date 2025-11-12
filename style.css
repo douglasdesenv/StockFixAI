@@ -375,6 +375,8 @@ footer h2{
   cursor: pointer;
 }
 
+.send-button:hover {background: #1754dc;}
+
 .bounce-btn {
   transition: transform 0.2s ease;
 }
